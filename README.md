@@ -1,2 +1,2 @@
-# InteligenciaArtificail
+# InteligenciaArtificial
  PracticasClase
